@@ -1,5 +1,5 @@
 https://huggingface.co/spaces/gorgeus/Credit_Card_Fraud_Detection
-https://github.com/gorgeusgirl9/RED-T-CARD-FRAUD-DETECTION
+[https://github.com/gorgeusgirl9/RED-T-CARD-FRAUD-DETECTION](https://github.com/gorgeusgirl9/CRED-T-CARD-FRAUD-DETECTION)
 https://www.kaggle.com/code/gorgeusgirl/cred-t-card-fraud-detection
 
 
